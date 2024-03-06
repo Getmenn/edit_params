@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    font-size: 15px;
+}
+
+.wrapper{
+    padding: 30px;
+}
+
+.box{
+    display: flex;
+    padding-bottom: 30px;
+    gap: 30px;
+    max-width: 100px;
+    max-height: 65px;
+}
+
+.button{
+    padding: 5px;
+    margin-bottom: 30px;
+}
+
+.item{
+    min-width: 100px;
+}
+
+.types{
+    display: flex;
+    gap: 30px;
+}
+
+.listBox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    gap: 10px;
+}
+
+.listBox ul{
+    width: 150px;
+    overflow: hidden;
+}
