@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/edit_params/static/css/main.4f50d9a1.css",
+    "main.js": "/edit_params/static/js/main.0017f4ed.js",
+    "index.html": "/edit_params/index.html",
+    "main.4f50d9a1.css.map": "/edit_params/static/css/main.4f50d9a1.css.map",
+    "main.0017f4ed.js.map": "/edit_params/static/js/main.0017f4ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f50d9a1.css",
+    "static/js/main.0017f4ed.js"
+  ]
+}
